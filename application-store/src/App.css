@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#root{
+  align-items: center;
+  display: flex;
+  justify-content: center;}
+
+.App{
+  max-width: 800px;
+  padding: 30 auto;
+}

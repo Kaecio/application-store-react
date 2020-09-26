@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
 import PromotionCard from './components/Promotion/Card/Card';
+import './App.css';
 
 const promotion ={
   "id": 1,
